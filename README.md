@@ -1,3 +1,5 @@
+本项目使用的是开源项目修改的，源项目地址https://github.com/sky22333/ansible-ui
+
 # Ansible UI 离线部署指南
 
 ## 1. 概述
@@ -56,4 +58,4 @@ docker compose up -d
 ---
 **技术支持**
 如有问题，请联系系统管理员或查看容器日志：
-`docker logs -f ansible-ui-app-1`
+`docker logs -f ansible-ui-app`
